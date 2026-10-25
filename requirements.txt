@@ -1,0 +1,7 @@
+# Install in a Python 3.10+ environment
+chronos-forecasting
+torch
+numpy
+pandas
+matplotlib
+notebook

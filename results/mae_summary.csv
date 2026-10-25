@@ -1,0 +1,7 @@
+period,method,mae_kw
+f7,Seasonal Naive,{naive7:.6f}
+f7,Chronos-Bolt,{chronos7:.6f}
+f7,Physics-Constrained Chronos,{physics7:.6f}
+f30,Seasonal Naive,{naive30:.6f}
+f30,Chronos-Bolt,{chronos30:.6f}
+f30,Physics-Constrained Chronos,{physics30:.6f}
